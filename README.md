@@ -1,7 +1,4 @@
 # paul1748.github.io
-What is Markdown?
-Markdown is a lightweight markup language that you can use to format plain text documents.
-Write docs for your GitHub projects, edit your GitHub profile README etc. You fill find it all here.
 
 Let's dive into it. ⤵️
 
@@ -115,7 +112,7 @@ You can cerate both inline and full block code snippets. You can also define pro
 I created .env file at the root. Backticks inside backticks? `No problem.`
 
 {
-  learning: "Markdown",
+  learning: "paul",
   showing: "block code snippet"
 }
 const x = "Block code snippet in JS";
@@ -182,10 +179,10 @@ Vue.js	Nest.js	Redis
 Task List
 Keeping track of the tasks that are done, and those that need to be done.
 
-- [x] Learn Markdown
+- [x] Learn paul wade
 - [ ] Learn Frontend Development
 - [ ] Learn Full Stack Development
- Learn Markdown
+ Learn paul wade
  Learn Frontend Development
  Learn Full Stack Development
 Footnote
@@ -236,7 +233,6 @@ Second One
 Third
 
 HTML
-You can also use raw HTML in your Markdown file. Most of the times that will work well, but sometimes you can experience some differences that you are not used to when working with standard HTML. Using CSS will not work.
 
 <h1>This is a heading</h1>
 <p>Paragraph...</p>
