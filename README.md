@@ -93,12 +93,7 @@ Similar to images, links can also be inserted directly or by creating a referenc
 [markdown-cheatsheet]: https://github.com/im-luka/markdown-cheatsheet
 [docs]: https://github.com/adam-p/markdown-here
 
-[Like it so far? Follow me on GitHub](https://github.com/im-luka)
-[My Markdown Cheatsheet - star it if you like it][markdown-cheatsheet]
-Find some great docs [here][docs]
-Like it so far? Follow me on GitHub
-My Markdown Cheatsheet - star it if you like it
-Find some great docs here
+
 
 Code
 You can cerate both inline and full block code snippets. You can also define programming language you were using in your snippet. All by using backticks.
