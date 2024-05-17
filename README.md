@@ -85,10 +85,7 @@ text if the image fails to load
 error text
 
 Links
-Similar to images, links can also be inserted directly or by creating a reference. You can create both inline and block links.
-
-[markdown-cheatsheet]: https://github.com/im-luka/markdown-cheatsheet
-[docs]: https://github.com/adam-p/markdown-here
+Similar to images, links can also be inserted directly or by creating a reference. You can create both inline 
 
 
 
@@ -100,7 +97,7 @@ You can cerate both inline and full block code snippets. You can also define pro
 
     ```
     {
-      learning: "Markdown",
+      learning: "paul wade",
       showing: "block code snippet"
     }
     ```
@@ -240,7 +237,7 @@ HTML
 <hr />
 
 <img src="auto-generated-path-to-file-when-you-upload-image" width="200">
-<a href="https://github.com/im-luka">Follow me on GitHub</a>
+<a href="https://github.com/im-paul">Follow me on GitHub</a>
 
 <br />
 <br />
