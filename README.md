@@ -115,7 +115,7 @@ I created .env file at the root. Backticks inside backticks? `No problem.`
 const x = "Block code snippet in JS";
 console.log(x);
 Lists
-As you can do in HTML, Markdown allows creating of both ordered and unordered lists.
+As you can do in HTML, allows creating of both ordered and unordered lists.
 
 Ordered List
 1. HTML
